@@ -1,0 +1,14 @@
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/CaixaSugestoesApplication.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/service/SugestaoService.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/repository/SugestaoRepository.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/dto/SugestaoResponseDTO.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/service/ComentarioService.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/controller/GlobalExceptionHandler.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/controller/SugestaoController.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/repository/ComentarioRepository.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/controller/ComentarioController.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/entity/Comentario.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/dto/SugestaoCreateDTO.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/dto/ComentarioCreateDTO.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/dto/ComentarioResponseDTO.java
+/home/ubuntu/caixa-sugestoes/src/main/java/com/example/caixasugestoes/entity/Sugestao.java

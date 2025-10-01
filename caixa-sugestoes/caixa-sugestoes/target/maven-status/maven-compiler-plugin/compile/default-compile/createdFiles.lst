@@ -1,0 +1,14 @@
+com/example/caixasugestoes/entity/Sugestao.class
+com/example/caixasugestoes/dto/SugestaoCreateDTO.class
+com/example/caixasugestoes/dto/SugestaoResponseDTO.class
+com/example/caixasugestoes/controller/ComentarioController.class
+com/example/caixasugestoes/dto/ComentarioResponseDTO.class
+com/example/caixasugestoes/service/SugestaoService.class
+com/example/caixasugestoes/service/ComentarioService.class
+com/example/caixasugestoes/repository/ComentarioRepository.class
+com/example/caixasugestoes/dto/ComentarioCreateDTO.class
+com/example/caixasugestoes/entity/Comentario.class
+com/example/caixasugestoes/controller/GlobalExceptionHandler.class
+com/example/caixasugestoes/controller/SugestaoController.class
+com/example/caixasugestoes/repository/SugestaoRepository.class
+com/example/caixasugestoes/CaixaSugestoesApplication.class
